@@ -5,14 +5,26 @@
 - Developer:
     - Github:
         - abbr: GH
-          href: https://github.com/
+          href: https://github.com/borntoeatt/
+          icon: mdi-github-#FFFFFF
 
 - Social:
     - Reddit:
         - abbr: RE
           href: https://reddit.com/
+          icon: mdi-reddit-#FF4500
 
 - Entertainment:
     - YouTube:
         - abbr: YT
-          href: https://youtube.com/
+          href: https://www.youtube.com/@borntoeat7034
+          icon: mdi-youtube-#FF0000
+- Media:
+    - Jellifin:
+        - abbr: JF
+          href: https://media.borntoeatt.online/
+          icon: mdi-movie-#FFFFFF
+    - jelliseerr:
+        - abbr: JS
+          href: https://catalog.borntoeatt.online/  
+          icon: mdi-jellyfish-#FFFFFF

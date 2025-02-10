@@ -3,16 +3,44 @@
 # https://gethomepage.dev/configs/services/
 
 - My First Group:
-    - My First Service:
-        href: http://localhost/
-        description: Homepage is awesome
-
-- My Second Group:
-    - My Second Service:
-        href: http://localhost/
-        description: Homepage is the best
+    - Hypervisor:
+        href: https://192.168.0.100:8006/
+        description: Proxmox VE
+        icon: proxmox.png
+    - OpenMediaVault:
+        href: http://192.168.0.140/
+        description: NAS/Container backup management
+        icon: openmediavault.png    
+        
+- Cloud Group:
+    - Nextcloud:
+        href: https://cloudtobe.online
+        description: Cloud solution for files, calendars, contacts, and more
+        icon: nextcloud.png
 
 - My Third Group:
     - My Third Service:
         href: http://localhost/
         description: Homepage is 😎
+- Media Backend Automation Group:
+    - Sonarr:
+        icon: sonarr.png
+        href: http://192.168.0.114:8989/
+        description: Series management
+    - Radarr:
+        icon: radarr.png
+        href: http://192.168.0.225:7878/
+        description: Movie management
+    - prowlarr:
+        icon: prowlarr.png
+        href: http://192.168.0.163:9696/
+        description: Indexer management
+    - Bazarr:
+        icon: bazarr.png
+        href: http://192.168.0.115:6767/
+        description: Subtitle management
+- Dev Group:
+    - Service:
+        icon: mdi-flask-outline
+        href: http://service.host/
+        description: My cool service

@@ -66,3 +66,254 @@
 [2025-02-10T12:40:43.893Z] error: YAMLException: expected a single document in the stream, but found more
 [2025-02-10T12:40:43.897Z] error: Failed to load settings.yaml, please check for errors
 [2025-02-10T12:40:43.897Z] error: YAMLException: expected a single document in the stream, but found more
+[2025-02-10T16:06:45.526Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-02-10T16:06:45.527Z] error: duplicated mapping key (34:3)
+
+ 31 |   showEpisodeNumber: true # optio ...
+ 32 |   expandOneStreamToTwoRows: false ...
+ 33 | 
+ 34 |   widget:
+--------^
+ 35 |   type: jellyseerr
+ 36 |   url: http://catalog.borntoeatt. ...
+[2025-02-10T16:06:45.649Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-02-10T16:06:45.649Z] error: duplicated mapping key (34:3)
+
+ 31 |   showEpisodeNumber: true # optio ...
+ 32 |   expandOneStreamToTwoRows: false ...
+ 33 | 
+ 34 |   widget:
+--------^
+ 35 |   type: jellyseerr
+ 36 |   url: http://catalog.borntoeatt. ...
+[2025-02-10T16:06:45.813Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-02-10T16:06:45.813Z] error: duplicated mapping key (34:3)
+
+ 31 |   showEpisodeNumber: true # optio ...
+ 32 |   expandOneStreamToTwoRows: false ...
+ 33 | 
+ 34 |   widget:
+--------^
+ 35 |   type: jellyseerr
+ 36 |   url: http://catalog.borntoeatt. ...
+[2025-02-10T16:06:49.159Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-02-10T16:06:49.160Z] error: duplicated mapping key (34:3)
+
+ 31 |   showEpisodeNumber: true # optio ...
+ 32 |   expandOneStreamToTwoRows: false ...
+ 33 | 
+ 34 |   widget:
+--------^
+ 35 |   type: jellyseerr
+ 36 |   url: http://catalog.borntoeatt. ...
+[2025-02-10T16:06:49.272Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-02-10T16:06:49.272Z] error: duplicated mapping key (34:3)
+
+ 31 |   showEpisodeNumber: true # optio ...
+ 32 |   expandOneStreamToTwoRows: false ...
+ 33 | 
+ 34 |   widget:
+--------^
+ 35 |   type: jellyseerr
+ 36 |   url: http://catalog.borntoeatt. ...
+[2025-02-10T16:07:04.991Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-02-10T16:07:04.992Z] error: duplicated mapping key (34:3)
+
+ 31 |   showEpisodeNumber: true # optio ...
+ 32 |   expandOneStreamToTwoRows: false ...
+ 33 | 
+ 34 |   widget:
+--------^
+ 35 |   type: jellyseerr
+ 36 |   url: http://catalog.borntoeatt. ...
+[2025-02-10T16:07:04.998Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-02-10T16:07:04.998Z] error: duplicated mapping key (34:3)
+
+ 31 |   showEpisodeNumber: true # optio ...
+ 32 |   expandOneStreamToTwoRows: false ...
+ 33 | 
+ 34 |   widget:
+--------^
+ 35 |   type: jellyseerr
+ 36 |   url: http://catalog.borntoeatt. ...
+[2025-02-10T16:07:05.151Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-02-10T16:07:05.152Z] error: duplicated mapping key (34:3)
+
+ 31 |   showEpisodeNumber: true # optio ...
+ 32 |   expandOneStreamToTwoRows: false ...
+ 33 | 
+ 34 |   widget:
+--------^
+ 35 |   type: jellyseerr
+ 36 |   url: http://catalog.borntoeatt. ...
+[2025-02-10T16:07:15.135Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-02-10T16:07:15.136Z] error: duplicated mapping key (31:3)
+
+ 28 |   showEpisodeNumber: true # optio ...
+ 29 |   expandOneStreamToTwoRows: false ...
+ 30 | 
+ 31 |   widget:
+--------^
+ 32 |   type: jellyseerr
+ 33 |   url: http://catalog.borntoeatt. ...
+[2025-02-10T16:07:15.140Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-02-10T16:07:15.140Z] error: duplicated mapping key (31:3)
+
+ 28 |   showEpisodeNumber: true # optio ...
+ 29 |   expandOneStreamToTwoRows: false ...
+ 30 | 
+ 31 |   widget:
+--------^
+ 32 |   type: jellyseerr
+ 33 |   url: http://catalog.borntoeatt. ...
+[2025-02-10T16:07:15.280Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-02-10T16:07:15.280Z] error: duplicated mapping key (31:3)
+
+ 28 |   showEpisodeNumber: true # optio ...
+ 29 |   expandOneStreamToTwoRows: false ...
+ 30 | 
+ 31 |   widget:
+--------^
+ 32 |   type: jellyseerr
+ 33 |   url: http://catalog.borntoeatt. ...
+[2025-02-10T16:17:45.015Z] error: Failed to load services.yaml, please check for errors
+[2025-02-10T16:17:45.015Z] error: YAMLException: bad indentation of a mapping entry (26:14)
+
+ 23 |         href: http://192.168.0.114:8989/
+ 24 |         description: Series management
+ 25 |         widget: sonarr
+ 26 |          type: "sonarr"
+-------------------^
+ 27 |         url: http://sonarr.host
+ 28 |         key: apikeyapikeyapikeyapikeyapikey  ...
+[2025-02-10T16:17:45.018Z] error: Failed to load services.yaml, please check for errors
+[2025-02-10T16:17:45.018Z] error: YAMLException: bad indentation of a mapping entry (26:14)
+
+ 23 |         href: http://192.168.0.114:8989/
+ 24 |         description: Series management
+ 25 |         widget: sonarr
+ 26 |          type: "sonarr"
+-------------------^
+ 27 |         url: http://sonarr.host
+ 28 |         key: apikeyapikeyapikeyapikeyapikey  ...
+[2025-02-10T16:17:45.175Z] error: Failed to load services.yaml, please check for errors
+[2025-02-10T16:17:45.175Z] error: YAMLException: bad indentation of a mapping entry (26:14)
+
+ 23 |         href: http://192.168.0.114:8989/
+ 24 |         description: Series management
+ 25 |         widget: sonarr
+ 26 |          type: "sonarr"
+-------------------^
+ 27 |         url: http://sonarr.host
+ 28 |         key: apikeyapikeyapikeyapikeyapikey  ...
+[2025-02-10T16:17:59.278Z] error: Failed to load services.yaml, please check for errors
+[2025-02-10T16:17:59.279Z] error: YAMLException: bad indentation of a mapping entry (26:14)
+
+ 23 |         href: http://192.168.0.114:8989/
+ 24 |         description: Series management
+ 25 |         widget: sonarr
+ 26 |          type: sonarr
+-------------------^
+ 27 |         url: http://sonarr.host
+ 28 |         key: apikeyapikeyapikeyapikeyapikey  ...
+[2025-02-10T16:17:59.440Z] error: Failed to load services.yaml, please check for errors
+[2025-02-10T16:17:59.440Z] error: YAMLException: bad indentation of a mapping entry (26:14)
+
+ 23 |         href: http://192.168.0.114:8989/
+ 24 |         description: Series management
+ 25 |         widget: sonarr
+ 26 |          type: sonarr
+-------------------^
+ 27 |         url: http://sonarr.host
+ 28 |         key: apikeyapikeyapikeyapikeyapikey  ...
+[2025-02-10T16:27:16.007Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-02-10T16:27:16.008Z] error: duplicated mapping key (31:3)
+
+ 28 |   showEpisodeNumber: true # optio ...
+ 29 |   expandOneStreamToTwoRows: false ...
+ 30 | 
+ 31 |   widget:
+--------^
+ 32 |   type: jellyseerr
+ 33 |   url: http://catalog.borntoeatt. ...
+[2025-02-10T16:27:16.013Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-02-10T16:27:16.014Z] error: duplicated mapping key (31:3)
+
+ 28 |   showEpisodeNumber: true # optio ...
+ 29 |   expandOneStreamToTwoRows: false ...
+ 30 | 
+ 31 |   widget:
+--------^
+ 32 |   type: jellyseerr
+ 33 |   url: http://catalog.borntoeatt. ...
+[2025-02-10T16:27:16.172Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-02-10T16:27:16.172Z] error: duplicated mapping key (31:3)
+
+ 28 |   showEpisodeNumber: true # optio ...
+ 29 |   expandOneStreamToTwoRows: false ...
+ 30 | 
+ 31 |   widget:
+--------^
+ 32 |   type: jellyseerr
+ 33 |   url: http://catalog.borntoeatt. ...
+[2025-02-10T16:27:22.312Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-02-10T16:27:22.313Z] error: duplicated mapping key (38:3)
+
+ 35 |   showEpisodeNumber: true # optio ...
+ 36 |   expandOneStreamToTwoRows: false ...
+ 37 | 
+ 38 |   widget:
+--------^
+ 39 |   type: jellyseerr
+ 40 |   url: http://catalog.borntoeatt. ...
+[2025-02-10T16:27:22.320Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-02-10T16:27:22.321Z] error: duplicated mapping key (38:3)
+
+ 35 |   showEpisodeNumber: true # optio ...
+ 36 |   expandOneStreamToTwoRows: false ...
+ 37 | 
+ 38 |   widget:
+--------^
+ 39 |   type: jellyseerr
+ 40 |   url: http://catalog.borntoeatt. ...
+[2025-02-10T16:27:22.468Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-02-10T16:27:22.469Z] error: duplicated mapping key (38:3)
+
+ 35 |   showEpisodeNumber: true # optio ...
+ 36 |   expandOneStreamToTwoRows: false ...
+ 37 | 
+ 38 |   widget:
+--------^
+ 39 |   type: jellyseerr
+ 40 |   url: http://catalog.borntoeatt. ...
+[2025-02-10T16:30:36.685Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-02-10T16:30:36.686Z] error: end of the stream or a document separator is expected (22:1)
+
+ 19 |       dateStyle:  long
+ 20 |       timeZone:   Europe/Sofia
+ 21 |       
+ 22 | widget:
+------^
+ 23 |   type: nextcloud
+ 24 |   url: https://nextcloud.host.o ...
+[2025-02-10T16:30:36.780Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-02-10T16:30:36.780Z] error: end of the stream or a document separator is expected (22:1)
+
+ 19 |       dateStyle:  long
+ 20 |       timeZone:   Europe/Sofia
+ 21 |       
+ 22 | widget:
+------^
+ 23 |   type: nextcloud
+ 24 |   url: https://nextcloud.host.o ...
+[2025-02-10T16:30:36.945Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-02-10T16:30:36.945Z] error: end of the stream or a document separator is expected (22:1)
+
+ 19 |       dateStyle:  long
+ 20 |       timeZone:   Europe/Sofia
+ 21 |       
+ 22 | widget:
+------^
+ 23 |   type: nextcloud
+ 24 |   url: https://nextcloud.host.o ...
+[2025-02-10T16:42:53.531Z] error: undefined
